@@ -2,3 +2,4 @@ file a
 A
 A1
 B1
+B2
